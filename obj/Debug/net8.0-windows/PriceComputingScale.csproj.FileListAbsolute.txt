@@ -1,0 +1,17 @@
+C:\Users\qaisa\Desktop\NJE\semester4\Visual Programming\Practice\PriceComputingScale\bin\Debug\net8.0-windows\PriceComputingScale.exe
+C:\Users\qaisa\Desktop\NJE\semester4\Visual Programming\Practice\PriceComputingScale\bin\Debug\net8.0-windows\PriceComputingScale.deps.json
+C:\Users\qaisa\Desktop\NJE\semester4\Visual Programming\Practice\PriceComputingScale\bin\Debug\net8.0-windows\PriceComputingScale.runtimeconfig.json
+C:\Users\qaisa\Desktop\NJE\semester4\Visual Programming\Practice\PriceComputingScale\bin\Debug\net8.0-windows\PriceComputingScale.dll
+C:\Users\qaisa\Desktop\NJE\semester4\Visual Programming\Practice\PriceComputingScale\bin\Debug\net8.0-windows\PriceComputingScale.pdb
+C:\Users\qaisa\Desktop\NJE\semester4\Visual Programming\Practice\PriceComputingScale\obj\Debug\net8.0-windows\PriceComputingScale.Form1.resources
+C:\Users\qaisa\Desktop\NJE\semester4\Visual Programming\Practice\PriceComputingScale\obj\Debug\net8.0-windows\PriceComputingScale.Properties.Resources.resources
+C:\Users\qaisa\Desktop\NJE\semester4\Visual Programming\Practice\PriceComputingScale\obj\Debug\net8.0-windows\PriceComputingScale.csproj.GenerateResource.cache
+C:\Users\qaisa\Desktop\NJE\semester4\Visual Programming\Practice\PriceComputingScale\obj\Debug\net8.0-windows\PriceComputingScale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qaisa\Desktop\NJE\semester4\Visual Programming\Practice\PriceComputingScale\obj\Debug\net8.0-windows\PriceComputingScale.AssemblyInfoInputs.cache
+C:\Users\qaisa\Desktop\NJE\semester4\Visual Programming\Practice\PriceComputingScale\obj\Debug\net8.0-windows\PriceComputingScale.AssemblyInfo.cs
+C:\Users\qaisa\Desktop\NJE\semester4\Visual Programming\Practice\PriceComputingScale\obj\Debug\net8.0-windows\PriceComputingScale.csproj.CoreCompileInputs.cache
+C:\Users\qaisa\Desktop\NJE\semester4\Visual Programming\Practice\PriceComputingScale\obj\Debug\net8.0-windows\PriceComputingScale.dll
+C:\Users\qaisa\Desktop\NJE\semester4\Visual Programming\Practice\PriceComputingScale\obj\Debug\net8.0-windows\refint\PriceComputingScale.dll
+C:\Users\qaisa\Desktop\NJE\semester4\Visual Programming\Practice\PriceComputingScale\obj\Debug\net8.0-windows\PriceComputingScale.pdb
+C:\Users\qaisa\Desktop\NJE\semester4\Visual Programming\Practice\PriceComputingScale\obj\Debug\net8.0-windows\PriceComputingScale.genruntimeconfig.cache
+C:\Users\qaisa\Desktop\NJE\semester4\Visual Programming\Practice\PriceComputingScale\obj\Debug\net8.0-windows\ref\PriceComputingScale.dll
