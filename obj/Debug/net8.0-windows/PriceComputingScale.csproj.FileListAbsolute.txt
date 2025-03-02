@@ -15,3 +15,4 @@ C:\Users\qaisa\Desktop\NJE\semester4\Visual Programming\Practice\PriceComputingS
 C:\Users\qaisa\Desktop\NJE\semester4\Visual Programming\Practice\PriceComputingScale\obj\Debug\net8.0-windows\PriceComputingScale.pdb
 C:\Users\qaisa\Desktop\NJE\semester4\Visual Programming\Practice\PriceComputingScale\obj\Debug\net8.0-windows\PriceComputingScale.genruntimeconfig.cache
 C:\Users\qaisa\Desktop\NJE\semester4\Visual Programming\Practice\PriceComputingScale\obj\Debug\net8.0-windows\ref\PriceComputingScale.dll
+C:\Users\qaisa\Desktop\NJE\semester4\Visual Programming\Practice\PriceComputingScale\obj\Debug\net8.0-windows\PriceComputingScale.sourcelink.json

@@ -11,7 +11,7 @@ namespace PriceComputingScale
             FitImage(btPear);
             FitImage(btOrange);
         }
-
+        
         private void FitImage(Button bt)
         {
             Image imResized = new Bitmap(bt.Image, bt.Width - 5, bt.Height - 5);
@@ -28,7 +28,7 @@ namespace PriceComputingScale
             }
             
             double price = double.Parse(((Button)sender).Text);
-            lbPrice.Text = (weight * price).ToString();
+            lbPrice.Text = (price * weight).ToString();
         }
     }
 }
